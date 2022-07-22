@@ -44,3 +44,12 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.rightpanel {
+  background-color: rgb(250,250,250) !important;
+}
+
+body {
+  padding: 50px;
+  background-color: rgb(250,250,250);
+}
